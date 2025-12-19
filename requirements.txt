@@ -1,0 +1,5 @@
+earthengine-api
+numpy
+Pillow
+openai
+segment-anything
